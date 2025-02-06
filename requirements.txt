@@ -2,3 +2,4 @@ gradio
 groq
 python-dotenv
 webbrowser
+streamlit
